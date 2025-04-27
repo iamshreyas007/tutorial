@@ -1,2 +1,1 @@
-# tutorial
-asd
+print("hello world")
